@@ -1,0 +1,17 @@
+.body{
+  background-color:#f1f1f1;
+}
+.lcoheader{
+  background-color: #f1f1f1;
+  font-family: 'Poppins', sans-serif;
+}
+.lcoresult{
+  background:lightgreen;
+  font-family: 'Poppins', sans-serif;
+
+}
+.list-group{
+  background-color: lightgreen;
+  font-family: 'Poppins', sans-serif;
+
+}
